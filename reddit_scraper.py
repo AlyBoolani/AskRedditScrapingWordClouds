@@ -7,7 +7,7 @@ import praw
 # Let's access the reddit API
 
 reddit = praw.Reddit(client_id = "", # My Personal Client ID
-                     client_secret = "", # Your client secret
+                     client_secret = "m4SwkYvXN6MsBIdjAV_qp2gT1jI", # Your client secret
                      user_agent = "", # User Agent Name
                      username = "", # Reddit username
                      password = "")
