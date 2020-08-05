@@ -75,5 +75,5 @@ def main():
     #     st.info('Shows the data being scrapped from reddit')
 
     # This will be the last line
-    if __name__ == '__main__':
-    	main()
+if __name__ == '__main__':
+    main()
